@@ -96,3 +96,6 @@
 
     git branch <name branch>
 
+ ### Чтобы удадить ветку используется команда:
+
+    git branch -d <name branch>
