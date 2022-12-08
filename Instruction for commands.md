@@ -135,10 +135,10 @@ Git предлагает 3 способа разрешения конфликт�
 
      git pull
 
-git remote add origin https:
+    git remote add origin https:
 
-git branch -M <branch name>
+    git branch -M <branch name>
 
-git push -u origin <branch name>
+    git push -u origin <branch name>
 
 ![Слайд инструкции pull request](slide.jpg)
